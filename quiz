@@ -1,0 +1,131 @@
+print("this is quiz")
+
+print("what is your name")
+input("enter your answer ")
+
+print("what is the colour of sky")
+input("enter your answer ")
+
+print("what is your favourite food")
+input("enter your answer ")
+
+print("what is your favourite colour")
+input("enter your answer ")
+
+print("what is your favourite sport")
+input("enter your answer ")
+
+print("what is your favourite movie")
+input("enter your answer ")
+
+print("what is your favourite song")
+input("enter your answer ")
+
+print("what is your favourite book")
+input("enter your answer ")
+
+print("what is your favourite animal")
+input("enter your answer ")
+
+print("what is your favourite place")
+input("enter your answer ")
+
+print("what is your favourite hobby")
+input("enter your answer ")
+
+print("what is your favourite subject")
+input("enter your answer ")
+
+print("what is your favourite season")
+input("enter your answer ")
+
+print("what is your favourite fruit")
+input("enter your answer ")
+
+print("what is your favourite vegetable")
+input("enter your answer ")
+
+print("what is your favourite drink")
+input("enter your answer ")
+
+print("what is your favourite dessert")
+input("enter your answer ")
+
+print("what is your favourite friends name")
+input("enter your answer ")
+
+print("which is your favourite element")
+input("enter your answer ")
+
+print("which is your favourite programming language")
+input("enter your answer ")
+
+print("how much days are there in april")
+input("enter your answer ")
+
+print("how many continents are there in the world")
+input("enter your answer ")
+
+print("how many oceans are there in the world")
+input("enter your answer ")
+
+print("how many planets are there in the solar system")
+input("enter your answer ")
+
+print("how many states are there in india")
+input("enter your answer ")
+
+print("how many countries are there in the world")
+input("enter your answer ")
+
+print("how many hours are there in a day")
+input("enter your answer ")
+
+print("how many minutes are there in an hour")
+input("enter your answer ")
+
+print("how many seconds are there in a minute")
+input("enter your answer ")
+
+print("how many days are there in a year")
+input("enter your answer ")
+
+print("how many months are there in a year")
+input("enter your answer ")
+
+print("how many weeks are there in a year")
+input("enter your answer ")
+
+print("how was the quiz")
+input("normal godly lordly heavenly omegaly) ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
